@@ -1,2 +1,2 @@
 # Projects
-A smart agent for doctor appointments, uing html scarping by Jsoup.
+A smart agent for doctor appointments, using html scarping by Jsoup.
